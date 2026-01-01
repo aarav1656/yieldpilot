@@ -1,0 +1,25 @@
+[package]
+name = "YieldPilot"
+version = "1.0.0"
+authors = []
+
+[addresses]
+yieldpilot = "_"
+
+[dev-addresses]
+yieldpilot = "0xCAFE"
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "aptos-release-v1.18"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dependencies.AptosStdlib]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "aptos-release-v1.18"
+subdir = "aptos-move/framework/aptos-stdlib"
+
+[dependencies.MoveStdlib]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "aptos-release-v1.18"
+subdir = "aptos-move/framework/move-stdlib"
