@@ -14,6 +14,10 @@ YieldPilot is a comprehensive DeFi yield optimization platform built for the Mov
 - Real Data Integration: DefiLlama for TVL/yields, Pyth Oracle for price feeds
 - Movement Native: Built specifically for Movement Network
 
+### Demo Video 
+
+https://github.com/user-attachments/assets/97ee71e1-0e4c-4970-8c67-f03fb56fde1f
+
 ## Architecture
 
 ```
