@@ -38,6 +38,7 @@ yieldpilot/
         ├── components/  # React components
         ├── hooks/       # Custom hooks (x402 payment)
         └── lib/         # Utilities and API client
+|---ARCHITECTURE.md
 ```
 
 ## Quick Start
